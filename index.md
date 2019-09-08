@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: 欢迎访问郑子为的博客
 showtag:
-- ICPC模板
+- C++学习
 ---
 ## 近期
 
