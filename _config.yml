@@ -172,7 +172,7 @@ sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
     img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
-    info: <br>UESTC18级工程硕士在读<br>电子与通信工程<br>永远喜欢新海城<br><br>学玩学玩 # 头像背后的信息
+    info: <br>UESTC18级工程硕士在读<br>电子与通信工程<br>永远喜欢新海城<br><br>成电 # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
   - title: rss
@@ -181,21 +181,21 @@ sidebar:
   - title: zhengziweigofoxmail.com # email
     href: mailto:zhengziweigo@foxmail.com
     class: 'fas fa-envelope fa-fw'
-  - title: ziwei # codeforces
-    href: //codeforces.com/profile/WuK
-    class: 'fas fa-chart-bar fw'
-  - title: ziwei # vjudge
-    href: //vjudge.net/user/WuK
-    class: 'fas fa-smile fa-fw'
-  - title: 942759535 # qq
+  # title: ziwei # codeforces
+   # href: //codeforces.com/profile/WuK
+   # class: 'fas fa-chart-bar fw'
+  # title: ziwei # vjudge
+  #  href: //vjudge.net/user/WuK
+  #  class: 'fas fa-smile fa-fw'
+  - title: 2758426558 # qq
     class: 'fab fa-qq fa-fw'
-  - title: Wu-_-Kan # weixin
+  - title: wowitszzw # weixin
     class: 'fab fa-weixin fa-fw'
   - title: github
-    href: //github.com/wu-kan
+    href: https://github.com/iamzhengziwei
     class: 'fab fa-github fa-fw'
   - title: zhihu
-    href: //www.zhihu.com/people/wu.kan/activities
+    href: http://www.zhihu.com/people/zheng-zi-wei-38
     class: 'fab fa-zhihu fa-fw'
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
