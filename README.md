@@ -5,7 +5,7 @@ permalink: /about
 ---
 ## 开始
 
-1. Fork [wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io)到你的仓库，并在设置里开启gh-pages
+1. Fork [iamzhengziwei/iamzhengziwei.github.io](https://github.com/iamzhengziwei/iamzhengziwei.github.io)到你的仓库，并在设置里开启gh-pages
 2. 修改_config.yml为你自己的信息
 3. 删除_post/下的博文和public/image/文件夹下的图片，开始写你自己的文章
 
