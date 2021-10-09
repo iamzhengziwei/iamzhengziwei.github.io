@@ -194,7 +194,7 @@ sidebar:
   - title: github
     href: https://github.com/iamzhengziwei
     class: 'fab fa-github fa-fw'
-  - title: 探索和好奇 #知乎
+  - title: 探索和好奇  #知乎
     href: http://www.zhihu.com/people/zheng-zi-wei-38
     class: 'fab fa-zhihu fa-fw'
   nav:
