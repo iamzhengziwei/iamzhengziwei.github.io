@@ -246,5 +246,5 @@ Live2D来自于[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/
 ### 2018-11-15
 
 - 在Github上成功部署博客
-- 成功迁移[原CSDN博客](https://blog.csdn.net/w_weilan)上的所有文章
+- 成功迁移原CSDN博客上的所有文章
 - live2d
