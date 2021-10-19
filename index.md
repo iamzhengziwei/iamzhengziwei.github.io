@@ -3,7 +3,7 @@ layout: page
 title: 欢迎访问郑子为的博客
 showtag:
 - 计算机科学
-- 电子信息科学
+- 电子信息
 - Others
 ---
 ## 近期
