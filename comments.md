@@ -8,3 +8,4 @@ title: 留言
 - [shadw3002](https://shadw3002.github.io)：同学+基友，常在一起交流技♂术
 - [水唐](https://yorkking.github.io)：同学+基友，热爱数学（自称为“紧跟大佬的菜鸡挣扎者”
 - [Ender](https://ender-coder.github.io)：可♂爱的学弟
+- [x-magus](https://x-magus.github.io)：大佬不仅技术强，还是个热心肠！
